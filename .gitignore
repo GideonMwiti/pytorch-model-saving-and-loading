@@ -1,0 +1,26 @@
+# Checkpoints and serialized model artifacts
+checkpoints/
+*.pt
+*.pth
+*.onnx
+*.tar
+*.bin
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments and IDE
+.env
+.venv
+env/
+venv/
+.vscode/
+.idea/
+
+# OS specific
+Thumbs.db
+Desktop.ini
+.DS_Store
